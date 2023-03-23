@@ -57,3 +57,9 @@ h1 {
   margin-bottom: 15px;
   font-weight: bold;
 }
+.git {
+  position: relative;
+  margin-left: 350px;
+  font-family: "Golos Text", sans-serif;
+  font-size: 14px;
+}
