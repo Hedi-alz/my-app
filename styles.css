@@ -1,0 +1,59 @@
+h1 {
+  font-family: "Golos Text", sans-serif;
+  font-weight: bold;
+  font-size: 48px;
+  padding-top: 40px;
+  padding-bottom: 20px;
+  color: #00204a;
+}
+
+.form-control {
+  margin-top: 15px;
+}
+.temperature {
+  font-family: "Golos Text", sans-serif;
+  font-size: 28px;
+  color: #00b7c2;
+  padding-bottom: 30px;
+}
+.detail {
+  font-family: "PT Mono", monospace;
+  font-size: 16px;
+  color: #00204a;
+  margin-top: 80px;
+}
+
+.container {
+  width: 50%;
+  padding-right: 20px;
+  padding-left: 20px;
+  margin-right: auto;
+  margin-left: auto;
+  background: #faf5e4;
+  border-radius: 6px;
+}
+
+.weather-app {
+  padding: 15px;
+  margin: 20px auto;
+  border-radius: 10px;
+  max-width: 600px;
+}
+.unit {
+  font-size: 22px;
+  color: #00b7c2;
+}
+.search-button {
+  background-color: #a8fbff;
+  color: black;
+  border-radius: 5px;
+  border-color: #a8fbff;
+}
+.humidity {
+  margin-bottom: 15px;
+  font-weight: bold;
+}
+.wind {
+  margin-bottom: 15px;
+  font-weight: bold;
+}
